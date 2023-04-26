@@ -1,17 +1,44 @@
 /* your code here */
 
-.content{
-	background-color:black;
-	height:350px;
-}
 .top{
 	display:flex;
 	flex-direction:row;
 	padding:50px;
 	font-size:40px;
 	justify-content:space-between;
-	
+	padding-right:20px;
+	background-color:black;
+	cursor:pointer;
 }
 .logo_name{
 	color:white;
+	cursor:pointer;
 }
+.link-boxes{
+		display:flex;
+		justify-content:space-between;
+		background-color:black;
+		color:white;
+		padding-right:20px;
+		cursor:pointer;
+}
+.link-boxes ul {
+	list-style-type:none;
+}
+ul a{
+	color:white;
+}
+.bottom-details{
+	color:white;
+	background-color:grey;
+	height:60px;
+	padding:20px;
+	font-size:20px;
+}
+.bottom-details ul{
+	display:flex;
+	list-style-type:none;
+	justify-content:space-between;
+	padding:
+}
+
