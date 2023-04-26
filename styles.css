@@ -41,4 +41,7 @@ ul a{
 	justify-content:space-between;
 	padding:
 }
+.media-icons{
+	display:flex;
+}
 
